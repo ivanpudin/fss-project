@@ -94,3 +94,11 @@ data/
 *.parquet
 .DS_Store
 Thumbs.db
+*.pth
+*.ckpt
+*.safetensors
+checkpoints/
+runs/
+lightning_logs/
+wandb/
+mlruns/
