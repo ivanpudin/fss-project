@@ -1,0 +1,224 @@
+[
+  {
+    "name": "Milk",
+    "category": "dairy",
+    "shelf_life_days": 10,
+    "opened_shelf_life_days": 6
+  },
+  {
+    "name": "Yogurt",
+    "category": "dairy",
+    "shelf_life_days": 18,
+    "opened_shelf_life_days": 7
+  },
+  {
+    "name": "Quark",
+    "category": "dairy",
+    "shelf_life_days": 21,
+    "opened_shelf_life_days": 3
+  },
+  {
+    "name": "Sour cream",
+    "category": "dairy",
+    "shelf_life_days": 18,
+    "opened_shelf_life_days": 5
+  },
+  {
+    "name": "Cooking cream",
+    "category": "dairy",
+    "shelf_life_days": 30,
+    "opened_shelf_life_days": 4
+  },
+  {
+    "name": "Butter",
+    "category": "dairy",
+    "shelf_life_days": 60,
+    "opened_shelf_life_days": 45
+  },
+  {
+    "name": "Cheese",
+    "category": "dairy",
+    "shelf_life_days": 45,
+    "opened_shelf_life_days": 28
+  },
+  {
+    "name": "Cream cheese",
+    "category": "dairy",
+    "shelf_life_days": 30,
+    "opened_shelf_life_days": 7
+  },
+  {
+    "name": "Eggs",
+    "category": "eggs",
+    "shelf_life_days": 28,
+    "opened_shelf_life_days": 28
+  },
+  {
+    "name": "Minced meat",
+    "category": "meat",
+    "shelf_life_days": 4,
+    "opened_shelf_life_days": 1
+  },
+  {
+    "name": "Chicken strips",
+    "category": "meat",
+    "shelf_life_days": 6,
+    "opened_shelf_life_days": 1
+  },
+  {
+    "name": "Sliced ham",
+    "category": "meat",
+    "shelf_life_days": 14,
+    "opened_shelf_life_days": 5
+  },
+  {
+    "name": "Ring sausage",
+    "category": "meat",
+    "shelf_life_days": 21,
+    "opened_shelf_life_days": 7
+  },
+  {
+    "name": "Bacon",
+    "category": "meat",
+    "shelf_life_days": 21,
+    "opened_shelf_life_days": 4
+  },
+  {
+    "name": "Grill sausages",
+    "category": "meat",
+    "shelf_life_days": 18,
+    "opened_shelf_life_days": 3
+  },
+  {
+    "name": "Christmas ham",
+    "category": "meat",
+    "shelf_life_days": 14,
+    "opened_shelf_life_days": 7
+  },
+  {
+    "name": "Salmon fillet",
+    "category": "fish",
+    "shelf_life_days": 4,
+    "opened_shelf_life_days": 1
+  },
+  {
+    "name": "Cold-smoked salmon",
+    "category": "fish",
+    "shelf_life_days": 18,
+    "opened_shelf_life_days": 4
+  },
+  {
+    "name": "Pickled herring",
+    "category": "fish",
+    "shelf_life_days": 30,
+    "opened_shelf_life_days": 7
+  },
+  {
+    "name": "Rye bread",
+    "category": "bread",
+    "shelf_life_days": 6,
+    "opened_shelf_life_days": 3
+  },
+  {
+    "name": "Toast bread",
+    "category": "bread",
+    "shelf_life_days": 8,
+    "opened_shelf_life_days": 6
+  },
+  {
+    "name": "Karelian pies",
+    "category": "bread",
+    "shelf_life_days": 5,
+    "opened_shelf_life_days": 3
+  },
+  {
+    "name": "Cucumber",
+    "category": "vegetable",
+    "shelf_life_days": 8,
+    "opened_shelf_life_days": 5
+  },
+  {
+    "name": "Tomatoes",
+    "category": "vegetable",
+    "shelf_life_days": 7,
+    "opened_shelf_life_days": 7
+  },
+  {
+    "name": "Lettuce",
+    "category": "vegetable",
+    "shelf_life_days": 6,
+    "opened_shelf_life_days": 5
+  },
+  {
+    "name": "Carrots",
+    "category": "vegetable",
+    "shelf_life_days": 30,
+    "opened_shelf_life_days": 21
+  },
+  {
+    "name": "Potatoes",
+    "category": "vegetable",
+    "shelf_life_days": 21,
+    "opened_shelf_life_days": 21
+  },
+  {
+    "name": "New potatoes",
+    "category": "vegetable",
+    "shelf_life_days": 7,
+    "opened_shelf_life_days": 7
+  },
+  {
+    "name": "Bell pepper",
+    "category": "vegetable",
+    "shelf_life_days": 9,
+    "opened_shelf_life_days": 3
+  },
+  {
+    "name": "Broccoli",
+    "category": "vegetable",
+    "shelf_life_days": 6,
+    "opened_shelf_life_days": 5
+  },
+  {
+    "name": "Leek",
+    "category": "vegetable",
+    "shelf_life_days": 14,
+    "opened_shelf_life_days": 10
+  },
+  {
+    "name": "Strawberries",
+    "category": "fruit",
+    "shelf_life_days": 3,
+    "opened_shelf_life_days": 2
+  },
+  {
+    "name": "Grapes",
+    "category": "fruit",
+    "shelf_life_days": 10,
+    "opened_shelf_life_days": 5
+  },
+  {
+    "name": "Liver casserole",
+    "category": "ready_meal",
+    "shelf_life_days": 10,
+    "opened_shelf_life_days": 3
+  },
+  {
+    "name": "Rosolli",
+    "category": "ready_meal",
+    "shelf_life_days": 10,
+    "opened_shelf_life_days": 4
+  },
+  {
+    "name": "Carrot casserole",
+    "category": "ready_meal",
+    "shelf_life_days": 12,
+    "opened_shelf_life_days": 4
+  },
+  {
+    "name": "Lingonberry jam",
+    "category": "condiment",
+    "shelf_life_days": 120,
+    "opened_shelf_life_days": 45
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "id": 1,
+    "name": "Macaroni casserole",
+    "main_ingredients": [
+      "Minced meat",
+      "Milk",
+      "Eggs"
+    ],
+    "rating": 5,
+    "times_cooked": 12
+  },
+  {
+    "id": 2,
+    "name": "Salmon soup",
+    "main_ingredients": [
+      "Salmon fillet",
+      "Potatoes",
+      "Carrots",
+      "Leek",
+      "Cooking cream"
+    ],
+    "rating": 5,
+    "times_cooked": 15
+  },
+  {
+    "id": 3,
+    "name": "Tacos",
+    "main_ingredients": [
+      "Minced meat",
+      "Tomatoes",
+      "Cucumber",
+      "Lettuce",
+      "Sour cream",
+      "Cheese"
+    ],
+    "rating": 5,
+    "times_cooked": 6
+  },
+  {
+    "id": 4,
+    "name": "Minced meat sauce with potatoes",
+    "main_ingredients": [
+      "Minced meat",
+      "Potatoes",
+      "Cooking cream",
+      "Carrots"
+    ],
+    "rating": 4,
+    "times_cooked": 4
+  },
+  {
+    "id": 5,
+    "name": "Spaghetti bolognese",
+    "main_ingredients": [
+      "Minced meat",
+      "Carrots",
+      "Bell pepper",
+      "Cheese"
+    ],
+    "rating": 4,
+    "times_cooked": 6
+  },
+  {
+    "id": 6,
+    "name": "Creamy chicken pasta",
+    "main_ingredients": [
+      "Chicken strips",
+      "Cooking cream",
+      "Broccoli",
+      "Cheese"
+    ],
+    "rating": 4,
+    "times_cooked": 6
+  },
+  {
+    "id": 7,
+    "name": "Chicken salad",
+    "main_ingredients": [
+      "Chicken strips",
+      "Lettuce",
+      "Cucumber",
+      "Tomatoes",
+      "Bell pepper"
+    ],
+    "rating": 3,
+    "times_cooked": 4
+  },
+  {
+    "id": 8,
+    "name": "Oven salmon with potatoes",
+    "main_ingredients": [
+      "Salmon fillet",
+      "Potatoes",
+      "Broccoli"
+    ],
+    "rating": 4,
+    "times_cooked": 9
+  },
+  {
+    "id": 9,
+    "name": "Sausage soup",
+    "main_ingredients": [
+      "Ring sausage",
+      "Potatoes",
+      "Carrots",
+      "Leek"
+    ],
+    "rating": 3,
+    "times_cooked": 3
+  },
+  {
+    "id": 10,
+    "name": "Pasta carbonara",
+    "main_ingredients": [
+      "Bacon",
+      "Eggs",
+      "Cooking cream",
+      "Cheese"
+    ],
+    "rating": 4,
+    "times_cooked": 9
+  },
+  {
+    "id": 11,
+    "name": "Oven pancake",
+    "main_ingredients": [
+      "Milk",
+      "Eggs",
+      "Lingonberry jam"
+    ],
+    "rating": 3,
+    "times_cooked": 15
+  },
+  {
+    "id": 12,
+    "name": "Meatballs with mashed potatoes",
+    "main_ingredients": [
+      "Minced meat",
+      "Potatoes",
+      "Milk",
+      "Eggs",
+      "Lingonberry jam"
+    ],
+    "rating": 4,
+    "times_cooked": 7
+  },
+  {
+    "id": 13,
+    "name": "Vegetable soup",
+    "main_ingredients": [
+      "Cooking cream",
+      "Carrots",
+      "Potatoes",
+      "Broccoli",
+      "Leek",
+      "Bell pepper"
+    ],
+    "rating": 3,
+    "times_cooked": 14
+  },
+  {
+    "id": 14,
+    "name": "Grilled sausages with new potatoes",
+    "main_ingredients": [
+      "Grill sausages",
+      "New potatoes",
+      "Cucumber"
+    ],
+    "rating": 4,
+    "times_cooked": 1
+  },
+  {
+    "id": 15,
+    "name": "Chicken curry",
+    "main_ingredients": [
+      "Chicken strips",
+      "Cooking cream",
+      "Bell pepper"
+    ],
+    "rating": 4,
+    "times_cooked": 5
+  }
+]

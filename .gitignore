@@ -89,7 +89,6 @@ __marimo__/
 *.h5
 *.pt
 *.onnx
-data/
 *.csv
 *.parquet
 .DS_Store
