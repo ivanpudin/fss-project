@@ -85,7 +85,6 @@ marimo/_lsp/
 __marimo__/
 .streamlit/secrets.toml
 *.pkl
-*.joblib
 *.h5
 *.pt
 *.onnx
